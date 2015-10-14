@@ -9,7 +9,7 @@ Section D <br/>
 Number Series <br/>
 Verbal Analogies -- audio response <br/>
 Word Recall -- audio response <br/>
-**Need to determine if immediate only, or both immediate and delayes <br/>
+**Need to determine if immediate only, or both immediate and delayed <br/>
 Abstract Reasoning <br/>
 Picture Vocabulary -- audio response <br/>
 Spatial Visualization in 3D <br/>
